@@ -1,0 +1,9 @@
+# Ignore everything, basically a .gitallow
+*
+!.gitignore
+
+
+
+# Allowed files
+#Data/*
+#!Data/ATE_LetMeClimbThat.esp
