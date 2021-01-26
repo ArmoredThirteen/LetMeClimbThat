@@ -1,6 +1,6 @@
 # Let Me Climb That!
 ### A mod for getting on top of high places
-### *By ArmoredThirteen*
+#### *By ArmoredThirteen*
 
 
 ## Description
