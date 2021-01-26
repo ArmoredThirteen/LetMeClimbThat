@@ -1,7 +1,7 @@
 # Ignore everything, basically a .gitallow
 /**
 !.gitignore
-
+!README.md
 
 
 # Allowed Data folder to be tracked but convert it to whitelist
