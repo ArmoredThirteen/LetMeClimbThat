@@ -55,3 +55,9 @@ Todo, could be more descriptive, never know if this is someone's first...
 	- ATEPotatoStatic: Static object using potato model
 	- ATEPotatoPickable: Activator for harvesting potatoes. Uses jalapeno plant model.
 	- ATEPotatoScript: Script for ATEPotatoPickable to harvest 1-3 potatoes
+	- ATESCOLDirtBucket: Bucket with dirt piles to appear filled with dirt, static collection
+	- ATESCOLDirtPot: Pot with dirt piles to appear filled with dirt, static collection
+	- ATESCOLWoodCartDirtSmall: Small wood cart with dirt piles to appear filled with dirt, static collection
+	- ATESCOLWoodSpoolPost: Wooden spool with wood rod sticking out one side, static collection
+	- ATEEffectPotatoMush: Spell effect with +1 str, -2 int, -35 dehydration
+	- ATEWaterTypePotatoMush: Water type using EffectPotatoMush so it can be drunk direct from sources
