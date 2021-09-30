@@ -1,10 +1,11 @@
-# Ignore everything, basically a .gitallow
-/**
+# Ignore everything but still look into sub directories
+*
+!*/
+
+# Allow base git files
 !.gitignore
 !README.md
 
-
-# Allowed Data folder to be tracked but convert it to whitelist
-!/Data/
-/Data/**
+# Mod related files and directories
 !/Data/ATE_LetMeClimbThat.esp
+!/Data/Sound/Voice/ATE_LetMeClimbThat/**
