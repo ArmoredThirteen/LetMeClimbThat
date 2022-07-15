@@ -14,7 +14,9 @@ Todo, could be more descriptive, never know if this is someone's first...
 
 ## Change log
 #### 0.4: Voice, Lip Sync
-- Blah
+- Dialogue recording and lip sync
+	- DJ Lasers (\Data\Sound\Voice\ATE_LetMeClimbThat.esp\ATEVoiceDJLasers)
+	- Slurps (\Data\Sound\Voice\ATE_LetMeClimbThat.esp\ATEVoiceSlurps)
 #### 0.3: Freeside, Rooftop Farm
 - Added Slurps' farm to rooftop near Freeside Water Pump
 	- Fire escape that goes to roof
