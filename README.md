@@ -17,6 +17,7 @@ Todo, could be more descriptive, never know if this is someone's first...
 - Dialogue recording and lip sync
 	- DJ Lasers (\Data\Sound\Voice\ATE_LetMeClimbThat.esp\ATEVoiceDJLasers)
 	- Slurps (\Data\Sound\Voice\ATE_LetMeClimbThat.esp\ATEVoiceSlurps)
+- Polished some of Slurps' dialogue to reflect changes made during recording
 #### 0.3: Freeside, Rooftop Farm
 - Added Slurps' farm to rooftop near Freeside Water Pump
 	- Fire escape that goes to roof
