@@ -1,0 +1,9 @@
+ATEVoiceDJLasers
+	Exported as .ogg files
+	5 quality
+	Amplify effect of 5
+	
+ATEVoiceSlurps
+	Exported as .ogg files
+	5 quality
+	Amplify effect of 1.5

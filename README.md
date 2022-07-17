@@ -18,6 +18,8 @@ Todo, could be more descriptive, never know if this is someone's first...
 	- DJ Lasers (\Data\Sound\Voice\ATE_LetMeClimbThat.esp\ATEVoiceDJLasers)
 	- Slurps (\Data\Sound\Voice\ATE_LetMeClimbThat.esp\ATEVoiceSlurps)
 - Polished some of Slurps' dialogue to reflect changes made during recording
+- Swapped out .wav files for .ogg to save space in the final product
+	- Original .wav files moved to WAV_Recordings in the repo
 #### 0.3: Freeside, Rooftop Farm
 - Added Slurps' farm to rooftop near Freeside Water Pump
 	- Fire escape that goes to roof
