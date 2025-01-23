@@ -13,6 +13,15 @@ Todo, could be more descriptive, never know if this is someone's first...
 
 
 ## Change log
+#### 0.5: Bug Zapper
+- Added The Bug Zapper
+	- Unique recharger pistol given to DJ Lasers
+	- Low accuracy, not a lot of shots, low base damage
+	- Extra damage vs mutated insects
+- New objects
+	- ATEWeapBugZapper
+	- ATEBugZapperBeam
+	- ATEDummyBugZapperDamage
 #### 0.4: Voice, Lip Sync
 - Dialogue recording and lip sync
 	- DJ Lasers (\Data\Sound\Voice\ATE_LetMeClimbThat.esp\ATEVoiceDJLasers)
